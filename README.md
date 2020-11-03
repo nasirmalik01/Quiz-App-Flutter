@@ -1,16 +1,9 @@
-# quizzler
+Quizzler (Quiz App for Android + iOS)
 
-A new Flutter application.
+![Screenshot_20200919-131216](https://user-images.githubusercontent.com/50584809/98020271-9b69f300-1e24-11eb-82cb-fa7e7e9c2ba2.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20200919-131214](https://user-images.githubusercontent.com/50584809/98020280-9c9b2000-1e24-11eb-88b6-5030deccb844.jpg)
